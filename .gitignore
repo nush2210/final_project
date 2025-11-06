@@ -1,0 +1,8 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.knit.md
+*.tex
+*.log
+.DS_Store

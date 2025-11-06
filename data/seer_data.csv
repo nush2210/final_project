@@ -1,0 +1,116 @@
+year,race_ethnicity,cases,population,age_adjusted_rate
+2000,White,4686,58842097,8.1
+2000,Black,374,8677835,6.1
+2000,American Indian/Alaska Native,41,994982,5.9
+2000,Asian or Pacific Islander,313,6437633,5.7
+2000,Unknown,7,0,
+2001,White,4827,59308547,8.2
+2001,Black,357,8803206,5.7
+2001,American Indian/Alaska Native,36,1027316,7.3
+2001,Asian or Pacific Islander,317,6684585,5.3
+2001,Unknown,13,0,
+2002,White,4708,59697903,7.9
+2002,Black,383,8922993,6.1
+2002,American Indian/Alaska Native,25,1059999,4.0
+2002,Asian or Pacific Islander,362,6916601,6.0
+2002,Unknown,10,0,
+2003,White,4591,60057941,7.6
+2003,Black,426,9031406,6.5
+2003,American Indian/Alaska Native,32,1096153,4.7
+2003,Asian or Pacific Islander,358,7138462,5.6
+2003,Unknown,8,0,
+2004,White,4573,60394030,7.4
+2004,Black,403,9157501,5.9
+2004,American Indian/Alaska Native,33,1134836,4.4
+2004,Asian or Pacific Islander,363,7358158,5.4
+2004,Unknown,12,0,
+2005,White,4636,60598489,7.4
+2005,Black,407,9193620,5.9
+2005,American Indian/Alaska Native,28,1173768,3.9
+2005,Asian or Pacific Islander,395,7579318,5.6
+2005,Unknown,9,0,
+2006,White,4745,60840920,7.5
+2006,Black,389,9276530,5.5
+2006,American Indian/Alaska Native,49,1214636,6.1
+2006,Asian or Pacific Islander,399,7799397,5.5
+2006,Unknown,11,0,
+2007,White,4646,61147624,7.2
+2007,Black,424,9451302,5.9
+2007,American Indian/Alaska Native,37,1261316,4.7
+2007,Asian or Pacific Islander,415,8013877,5.4
+2007,Unknown,15,0,
+2008,White,4730,61541424,7.3
+2008,Black,443,9614840,6.0
+2008,American Indian/Alaska Native,34,1314356,4.4
+2008,Asian or Pacific Islander,452,8245703,5.7
+2008,Unknown,18,0,
+2009,White,4690,61910522,7.1
+2009,Black,440,9775080,5.8
+2009,American Indian/Alaska Native,43,1374150,4.4
+2009,Asian or Pacific Islander,404,8465100,4.8
+2009,Unknown,8,0,
+2010,White,4657,62276895,6.9
+2010,Black,447,9919756,5.6
+2010,American Indian/Alaska Native,36,1423201,4.1
+2010,Asian or Pacific Islander,447,8680067,5.3
+2010,Unknown,9,0,
+2011,White,4474,62627400,6.5
+2011,Black,461,10051376,5.6
+2011,American Indian/Alaska Native,43,1441021,4.2
+2011,Asian or Pacific Islander,467,8905878,5.2
+2011,Unknown,19,0,
+2012,White,4555,62940217,6.6
+2012,Black,479,10172904,5.5
+2012,American Indian/Alaska Native,43,1458880,4.3
+2012,Asian or Pacific Islander,491,9132345,5.4
+2012,Unknown,10,0,
+2013,White,4463,63215421,6.3
+2013,Black,489,10288622,5.5
+2013,American Indian/Alaska Native,54,1476464,4.7
+2013,Asian or Pacific Islander,525,9370847,5.5
+2013,Unknown,22,0,
+2014,White,4588,63494817,6.4
+2014,Black,476,10415369,5.2
+2014,American Indian/Alaska Native,36,1494546,3.0
+2014,Asian or Pacific Islander,547,9620135,5.5
+2014,Unknown,25,0,
+2015,White,4716,63758128,6.5
+2015,Black,484,10542035,5.1
+2015,American Indian/Alaska Native,40,1511793,3.6
+2015,Asian or Pacific Islander,557,9893014,5.4
+2015,Unknown,29,0,
+2016,White,4372,64001143,6.0
+2016,Black,512,10668657,5.4
+2016,American Indian/Alaska Native,36,1528740,2.8
+2016,Asian or Pacific Islander,512,10150394,4.8
+2016,Unknown,29,0,
+2017,White,4241,64158236,5.7
+2017,Black,503,10795809,5.1
+2017,American Indian/Alaska Native,46,1545454,3.7
+2017,Asian or Pacific Islander,558,10394961,5.1
+2017,Unknown,56,0,
+2018,White,4103,64237525,5.5
+2018,Black,481,10910484,4.8
+2018,American Indian/Alaska Native,53,1559830,4.1
+2018,Asian or Pacific Islander,567,10589904,5.1
+2018,Unknown,54,0,
+2019,White,4165,64229875,5.5
+2019,Black,467,11027967,4.5
+2019,American Indian/Alaska Native,37,1574306,2.9
+2019,Asian or Pacific Islander,602,10756058,5.1
+2019,Unknown,48,0,
+2020,White,3879,64131441,5.1
+2020,Black,459,11121665,4.3
+2020,American Indian/Alaska Native,54,1591683,4.1
+2020,Asian or Pacific Islander,574,10888851,4.8
+2020,Unknown,52,0,
+2021,White,4151,63767062,5.4
+2021,Black,561,11162889,5.2
+2021,American Indian/Alaska Native,47,1600675,3.3
+2021,Asian or Pacific Islander,652,10954266,5.4
+2021,Unknown,68,0,
+2022,White,4032,63513006,5.3
+2022,Black,581,11254879,5.2
+2022,American Indian/Alaska Native,52,1616355,3.5
+2022,Asian or Pacific Islander,606,11134292,4.9
+2022,Unknown,82,0,
