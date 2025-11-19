@@ -13,3 +13,6 @@
 -loads the table and figure saved by the two .R scripts
 -displays the summary table and the figure in the final report
 -renders the report as final_project.pdf
+
+To synchronize package repository and restore project environment, run: 
+  make install

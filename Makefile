@@ -1,3 +1,8 @@
+#! Install package environment with renv
+.PHONY: install
+install:
+	Rscript -e "renv::restore(prompt = FALSE)"
+
 #! Build the final report (PDF)
 final_project.pdf: final_project.Rmd output/table1.csv output/figure1.png
 	Rscript -e "rmarkdown::render('final_project.Rmd', output_file='final_project.pdf')"
