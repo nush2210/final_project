@@ -15,7 +15,7 @@ library(knitr)
 ```
 
 ```{r, here}
-here::i_am("final_project/final_project.Rmd")
+here::i_am("final_project.Rmd")
 ```
 
 ```{r, read_output}

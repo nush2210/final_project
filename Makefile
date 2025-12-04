@@ -1,3 +1,6 @@
+#! Build entire report 
+all: final_project.pdf
+
 #! Install package environment with renv
 .PHONY: install
 install:
@@ -19,3 +22,8 @@ output/figure1.png: code/figure1.R data/seer_data.csv
 .PHONY: clean
 clean:
 	rm -f output/*.csv output/*.png report/*.pdf
+	
+#! Run Docker to generate the report 
+.PHONY: docker
+docker:
+	docker run -v "/$$(pwd)/final_report":/home/rstudio/project/final_report nush22/eric_cartman
