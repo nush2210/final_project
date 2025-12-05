@@ -27,7 +27,7 @@ ENV WHICH_CONFIG=default
 RUN mkdir code 
 RUN mkdir output
 RUN mkdir data 
-RUN mkdir final_report 
+RUN mkdir report 
 
 COPY final_project.Rmd final_project.Rmd
 COPY data/ data/
@@ -37,4 +37,4 @@ COPY Makefile Makefile
 RUN Rscript -e "tinytex::install_tinytex()"
 ENV PATH="${PATH}:/root/bin"
 
-ENTRYPOINT ["sh", "-c", "make final_project.pdf && cp final_project.pdf final_report/"]
+ENTRYPOINT ["sh", "-c", "make final_project.pdf && cp final_project.pdf report/"]

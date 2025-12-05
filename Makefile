@@ -26,4 +26,4 @@ clean:
 #! Run Docker to generate the report 
 .PHONY: docker
 docker:
-	docker run -v "/$$(pwd)/final_report":/home/rstudio/project/final_report nush22/eric_cartman
+	docker run -v "/$$(pwd)/report":/home/rstudio/project/report nush22/eric_cartman

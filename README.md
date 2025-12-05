@@ -18,11 +18,11 @@
 
 # Generating the Report Locally
 To synchronize package repository and restore project environment, run: 
-  make install
+  `make install`
   
 To build the report pdf, run: 
-  make 
+  `make` 
   
 # Generating the Report on Docker 
 To build the report, run: 
-  docker run -v "/$(pwd)/final_report":/home/rstudio/project/final_report nush22/eric_cartman
+  `docker run -v "/$(pwd)/report":/home/rstudio/project/report nush22/eric_cartman`
